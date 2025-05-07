@@ -1,4 +1,4 @@
-Hi, I’m Lucas Monte
+Hi, I’m Lucas Monte!
 
 Brazilian developer from São Paulo
 
