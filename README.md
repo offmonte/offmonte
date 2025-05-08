@@ -1,6 +1,6 @@
 Hi, I’m Lucas Monte!
 
-Brazilian developer from São Paulo
+Brazilian developer from São Paulo!
 
 <!---
 offmonte/offmonte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
