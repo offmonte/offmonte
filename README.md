@@ -8,7 +8,7 @@ Skilled in **C# (.NET)**, **Python (Flask, FastAPI)**, and **JavaScript/TypeScri
 ### 🚀 Tech Stack
 
 #### 💡 Back-end
-- C# (ASP.NET Core)  
+- C# (.NET)  
 - Python (Flask, FastAPI, Jupyter Notebook, OpenCV)  
 - Node.js, Express, TypeORM, Zod  
 
@@ -18,11 +18,11 @@ Skilled in **C# (.NET)**, **Python (Flask, FastAPI)**, and **JavaScript/TypeScri
 - Tailwind CSS  
 
 #### 🗃️ Databases
-- PostgreSQL, MySQL  
+- PostgreSQL, OracleDB  
 
 #### ☁️ Infrastructure
 - Docker, Docker Compose  
-- AWS, Azure  
+- Azure, AWS
 
 #### 📱 Mobile
 - Flutter, Dart, React-Native  
