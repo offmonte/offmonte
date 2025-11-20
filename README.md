@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lucas Monte Verde
 
 💻 **Full Stack Developer** with 3 years of experience, focused on **web application architecture** and **scalable APIs**.  
-Skilled in **C# (.NET Core)**, **Python (Flask, FastAPI)**, and **JavaScript/TypeScript (Node.js, React, Next.js)** — with solid experience in **databases**, **cloud infrastructure**, and **modern development practices**.
+Skilled in **C# (.NET)**, **Python (Flask, FastAPI)**, and **JavaScript/TypeScript (Node.js, React, Next.js)** — with solid experience in **databases**, **cloud infrastructure**, and **modern development practices**.
 
 ---
 
